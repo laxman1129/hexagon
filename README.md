@@ -39,7 +39,7 @@ data can be provided or inputed by user through
 
 | Criteria   |      N Tiered Architecture      |  Hexagonal architecture |
 |----------|:-------------:|------:|
-| Application Complexity | Suitable for simple, CRUD-heavy applications | Ideal for complex applications wuth intricate business rules and busiess logic |
+| Application Complexity | Suitable for simple, CRUD-heavy applications | Ideal for complex applications with intricate business rules and busiess logic |
 | Data flow | Works best with predictable, linear data flow between UI, business and data layers | Suports flexible data flow, allowing various external systems to interact with the core through adapters |
 | System integration | Limited external integrations; stable dependencies. | Frequent or evolving integrations with external systems (APIs, messaging, etc.). |
 | Component coupling | Tightly coupled layers with direct dependencies between them. | Loosely coupled components that interact through well-defined ports and adapters. |
