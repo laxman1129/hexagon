@@ -35,7 +35,7 @@ data can be provided or inputed by user through
 
 ![alt text](image.png)
 
-## When to use Hexagonal architecture vs N tiered archetecture
+## When to use Hexagonal architecture vs N tiered architecture
 
 | Criteria   |      N Tiered Architecture      |  Hexagonal architecture |
 |----------|:-------------:|------:|
