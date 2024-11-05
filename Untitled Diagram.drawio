@@ -11,13 +11,16 @@
           <mxGeometry x="220" y="258.5" width="176.67" height="53" as="geometry" />
         </mxCell>
         <mxCell id="-46i5SgQbu93fMqkVZ2X-3" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="93.75" height="90" as="geometry" />
+          <mxGeometry x="690" y="30" width="93.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-46i5SgQbu93fMqkVZ2X-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_toolkit;" vertex="1" parent="1">
           <mxGeometry x="506.57" y="430" width="87.18" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-46i5SgQbu93fMqkVZ2X-5" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="83.33" height="80" as="geometry" />
+          <mxGeometry x="506.57" y="245" width="83.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-46i5SgQbu93fMqkVZ2X-6" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="670" y="250" width="83.33" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
