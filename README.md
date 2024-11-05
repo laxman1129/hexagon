@@ -46,7 +46,7 @@ data can be provided or inputed by user through
 | Testability | Basic testing usually sufficient, but tightly coupled components may hinder isolated testing. | Highly testable; components can be tested in isolation using mock adapters. |
 | Flexibility and Modularity | Lower flexibility; modifying dependencies may require changes across multiple layers. | High flexibility; swapping components (e.g., database or UI) only requires updating or adding adapters. |
 | Maintenance and scalability  | Easier to maintain in small-to-medium applications; not ideal for large, evolving systems. | Scalable for large systems; changes in technology or requirements are easier to manage over time. |
-| Use cases |  |  |
+| Use cases | Suits stable, stable CRUD focused apps with clear linear flow and minimal external dependencies. | Suits for complex, evolving apps that needs seemless integration with multiple external dependencies, without disrupting the core logic |
 
 ## Summary
 
